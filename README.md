@@ -1,3 +1,3 @@
 # Biblioteca
 
-A Java-based Library Management System designed to strengthen and apply core Object-Oriented Programming (OOP) concepts through a practical, real-world application, with a focus on writing clean, structured, and maintainable code.
+A Java-based Library Management System designed to apply and strengthen core Object-Oriented Programming (OOP) principles through a clean, modular, and practical real-world application.
